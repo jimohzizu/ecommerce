@@ -1,0 +1,75 @@
+{
+  "items":[
+    {
+      "sys": {"id": "1"},
+      "fields": {
+        "name": "Vintage Shirt",
+        "make": "Converse",
+        "price": 2000,
+        "img":{"fields": {"file":{"url": "./img/products/f1.jpg"}}}
+      }
+    },
+       {
+      "sys": {"id": "2"},
+      "fields": {
+        "name": "Short Sleeve Shirt",
+        "make": "Nike",
+        "price": 2500,
+        "img":{"fields": {"file":{"url": "./img/products/f2.jpg"}}}
+      }
+    },
+       {
+      "sys": {"id": "3"},
+      "fields": {
+        "name": "Stripped Shirt",
+        "make": "adidas",
+        "price": 3000,
+        "img":{"fields": {"file":{"url": "./img/products/f3.jpg"}}}
+      }
+    },   {
+      "sys": {"id": "4"},
+      "fields": {
+        "name": "Loius Vition Shirt",
+        "make": "LV",
+        "price": 1500,
+        "img":{"fields": {"file":{"url": "./img/products/f4.jpg"}}}
+      }
+    },
+       {
+      "sys": {"id": "5"},
+      "fields": {
+        "name": "Prada Shirt",
+        "make": "Prada",
+        "price": 2000,
+        "img":{"fields": {"file":{"url": "./img/products/f5.jpg"}}}
+      }
+    },
+       {
+      "sys": {"id": "6"},
+      "fields": {
+        "name": "Cotton Shirt",
+        "make": "Brook",
+        "price": 1700,
+        "img":{"fields": {"file":{"url": "./img/products/f6.jpg"}}}
+      }
+    },
+       {
+      "sys": {"id": "7"},
+      "fields": {
+        "name": "Lumberjack Shirt",
+        "make": "Timbs",
+        "price": 4000,
+        "img":{"fields": {"file":{"url": "./img/products/f7.jpg"}}}
+      }
+    },
+       {
+      "sys": {"id": "8"},
+      "fields": {
+        "name": "Demin Shirt",
+        "make": "Jordans",
+        "price": 3500,
+        "img":{"fields": {"file":{"url": "./img/products/f8.jpg"}}}
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "json-server --watch ./products.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimAGX/ecommerce-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimAGX/ecommerce-website/issues"
+  },
+  "homepage": "https://github.com/TimAGX/ecommerce-website#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "items":[
+    {
+      "id": "1",
+
+        "name": "Vintage Shirt",
+        "make": "Converse",
+        "price": 2000,
+        "img":{"url": "./img/products/f1.jpg"}
+
+    },
+       {
+      "id": "2",
+        "name": "Short Sleeve Shirt",
+        "make": "Nike",
+        "price": 2500,
+        "img":{"url": "./img/products/f2.jpg"}
+      },
+
+       {
+      "id": "3",
+        "name": "Stripped Shirt",
+        "make": "adidas",
+        "price": 3000,
+        "img":{"url": "./img/products/f3.jpg"}
+      },
+       {
+      "id": "4",
+        "name": "Loius Vition Shirt",
+        "make": "LV",
+        "price": 1500,
+        "img":{"url": "./img/products/f4.jpg"}
+      },
+
+       {
+      "id": "5",
+        "name": "Prada Shirt",
+        "make": "Prada",
+        "price": 2000,
+        "img":{"url": "./img/products/f5.jpg"}
+      },
+
+       {
+        "id": "6",
+        "name": "Cotton Shirt",
+        "make": "Brook",
+        "price": 1700,
+        "img":{"url": "./img/products/f6.jpg"}
+      },
+       {
+        "id": "7",
+        "name": "Lumberjack Shirt",
+        "make": "Timbs",
+        "price": 4000,
+        "img":{"url": "./img/products/f7.jpg"}
+      },
+       {
+        "id": "8",
+        "name": "Demin Shirt",
+        "make": "Jordans",
+        "price": 3500,
+        "img":{"url": "./img/products/f8.jpg"}
+      }
+    ],
+    "items2":[
+    {
+      "id": "9",
+
+        "name": "Vintage Shirt",
+        "make": "Converse",
+        "price": 2000,
+        "img":{"url": "./img/products/n1.jpg"}
+
+    },
+       {
+      "id": "10",
+        "name": "Short Sleeve Shirt",
+        "make": "Nike",
+        "price": 2500,
+        "img":{"url": "./img/products/n2.jpg"}
+      },
+
+       {
+      "id": "11",
+        "name": "Stripped Shirt",
+        "make": "adidas",
+        "price": 3000,
+        "img":{"url": "./img/products/n3.jpg"}
+      },
+       {
+      "id": "12",
+        "name": "Loius Vition Shirt",
+        "make": "LV",
+        "price": 1500,
+        "img":{"url": "./img/products/n4.jpg"}
+      },
+
+       {
+      "id": "13",
+        "name": "Prada Shirt",
+        "make": "Prada",
+        "price": 2000,
+        "img":{"url": "./img/products/n5.jpg"}
+      },
+
+       {
+        "id": "14",
+        "name": "Cotton Shirt",
+        "make": "Brook",
+        "price": 1700,
+        "img":{"url": "./img/products/n6.jpg"}
+      },
+       {
+        "id": "15",
+        "name": "Lumberjack Shirt",
+        "make": "Timbs",
+        "price": 4000,
+        "img":{"url": "./img/products/n7.jpg"}
+      },
+       {
+        "id": "16",
+        "name": "Demin Shirt",
+        "make": "Jordans",
+        "price": 3500,
+        "img":{"url": "./img/products/n8.jpg"}
+      }
+    ]
+}
